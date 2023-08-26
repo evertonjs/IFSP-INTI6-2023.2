@@ -5,6 +5,7 @@ Repositório de materiais/códigos da disciplina de Aprendizado de Máquina (INT
 
 ## Plano de estudo
 
-[1. Tutorial sobre python](www.gmail.com) </br>
+[1. Introdução - Pensamento Analítico de Dados]() </br>
+[2. Tutorial sobre python](https://github.com/evertonjs/IFSP-INTI6-2023.2/tree/main/tutorial_python) </br>
 [2. Limpeza e Pré-processamento de Dados]() </br> 
 [3. Desafio QConcursos no Kaggle](https://www.kaggle.com/competitions/desafio-de-aprendizagem-adaptativa-qconcursos)
