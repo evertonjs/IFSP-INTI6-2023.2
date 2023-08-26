@@ -7,3 +7,4 @@ Repositório de materiais/códigos da disciplina de Aprendizado de Máquina (INT
 
 [1. Tutorial sobre python](www.gmail.com) </br>
 [2. Limpeza e Pré-processamento de Dados]() </br> 
+[3. Desafio QConcursos no Kaggle](https://www.kaggle.com/competitions/desafio-de-aprendizagem-adaptativa-qconcursos)
