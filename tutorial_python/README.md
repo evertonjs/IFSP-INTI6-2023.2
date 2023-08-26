@@ -15,14 +15,16 @@ Bem-vindo ao Tutorial Python para Iniciantes! Este repositório contém recursos
 
 ## Como usar este tutorial
 
-Este tutorial é organizado em uma série de pastas, cada uma cobrindo um tópico específico. Cada pasta contém código de exemplo, explicações detalhadas e exercícios para reforçar o aprendizado. Sinta-se à vontade para explorar os tópicos na ordem que preferir.
+Este tutorial é organizado em uma série notebooks (ipynb), cada uma cobrindo um tópico específico. Cada notebbok contém código de exemplo e explicações detalhadas. Sinta-se à vontade para explorar os tópicos na ordem que preferir.
 
 ## Requisitos
 
 Antes de começar, você precisará:
 
-- Ter o Python instalado em seu sistema.
-- Um editor de código de sua escolha (recomendamos Visual Studio Code ou PyCharm).
+- Ter o Python instalado em seu sistema. [Veja em Curso em vídeo - Curso Python #03 - Instalando o Python3 e o IDLE](https://www.youtube.com/watch?v=VuKvR1J2LQE)
+- Instalar pip (gerenciar pacotes em Python). [Link para instalação](https://pip.pypa.io/en/stable/installation/)
+- Instalar ambiente virtual (virtual env). [Link para instalação](https://virtualenv.pypa.io/en/latest/installation.html)
+- Um editor de código de sua escolha (recomendamos Jupyter lab, Google Colab, Visual Studio Code e PyCharm).
 - Vontade de aprender e experimentar!
 
 ## Contribuições
