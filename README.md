@@ -3,4 +3,7 @@ Repositório de materiais/códigos da disciplina de Aprendizado de Máquina (INT
 
 **Professor:** Everton J. Meyer da Silva
 
-# Plano de estudo
+## Plano de estudo
+
+[1. Tutorial sobre python](www.gmail.com) </br>
+[2. Limpeza e Pré-processamento de Dados]() </br> 
