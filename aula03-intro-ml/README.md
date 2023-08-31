@@ -12,7 +12,7 @@ Exploraremos o conceito central do Aprendizado de Máquina, incluindo como ele d
 
 ### Como um problema é resolvido usando ML
 
-Você aprenderá o processo geral de como um problema é abordado e resolvido usando técnicas de Aprendizado de Máquina.
+Você aprenderá o processo geral de como um problema é abordado e resolvido usando técnicas de Aprendizado de Máquina. O notebook `exemplo_pratico` é apresentado com o objetivo de fixar o conteúdo abordado.
 
 ### Tipos de Aprendizado de Máquina
 
